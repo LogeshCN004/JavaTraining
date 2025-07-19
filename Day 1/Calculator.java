@@ -1,4 +1,5 @@
- import java.util.Scanner;
+// Java Program to add the two numbers
+import java.util.Scanner;
 
  class Calculator {
     
@@ -19,5 +20,8 @@
     
 }
 }
-
+// Output:
+// Num 1: 25
+// Num 2: 35
+// 60
    
