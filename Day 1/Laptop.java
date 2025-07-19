@@ -1,3 +1,4 @@
+// Java Program to show the details of a laptop
 import java.util.Scanner;
 class Laptop {
     String brand;
@@ -17,3 +18,6 @@ class Laptop {
         sc.close();
     }
 }
+// Outpuut:
+// Brand: Lenovo LOQ
+// RAM: 16GB
