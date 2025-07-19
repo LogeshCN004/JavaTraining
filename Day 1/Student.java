@@ -1,3 +1,4 @@
+// Java Program to print Student details
 class Student {
     String name;
     int rollno;
@@ -12,3 +13,6 @@ class Student {
         s1.display();
     }
 }
+// Output:
+// Name: Dinesh Ram
+// Roll no: 20
