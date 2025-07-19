@@ -1,3 +1,9 @@
+// Java Program to perform basic arithmetic operation between two numbers
+// Program should:
+    // ask user to enter two numbers
+    // ask user to choose operator
+    // perform operation baased on chosen operator
+    // Display Result
 import java.util.Scanner;
 class CalculatorApp {
     double A;
@@ -43,3 +49,8 @@ class CalculatorApp {
         sc.close();
     }
 }
+// Output:
+// Value of A: 25
+// Value of B: 5
+// Operator: /
+// Division: 5
