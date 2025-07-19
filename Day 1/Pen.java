@@ -1,3 +1,4 @@
+// Java Program to to print details of a pen
 import java.util.Scanner;
 class Pen {
     String color;
@@ -16,3 +17,7 @@ class Pen {
         sc.close();
     }
 }
+// Output:
+// Color: Blue
+// Brand: Reynolds
+// This Reynolds pen writes in Blue color.
