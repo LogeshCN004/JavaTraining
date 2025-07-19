@@ -1,3 +1,4 @@
+//Java Program to print Brand and Year of a Car 
 class Car {
 String brand;
     int year;
@@ -12,3 +13,6 @@ String brand;
         c1.display();
     }
 }
+// Output:
+// Brand: Mini Cooper
+// Year: 2015
