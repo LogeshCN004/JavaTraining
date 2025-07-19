@@ -1,3 +1,4 @@
+//Java Program to print Name and Age using Instance method
 class Person {
     String name;
     int age;
@@ -12,3 +13,6 @@ class Person {
         p1.display();
     }
 }
+//Output:
+//Name: Adam
+//Age: 21
