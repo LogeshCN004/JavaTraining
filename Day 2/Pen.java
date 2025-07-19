@@ -1,3 +1,4 @@
+// Java Program to display 3 Pen objects and their details using parameterized constructor
 package logesh;
 
 public class Pen {
@@ -25,3 +26,15 @@ public class Pen {
 		p3.showDetails();
 	}
 }
+// Output: 
+// Brand: Nataraj
+// Color: Blue
+// Price: 10
+// -----
+// Brand: Reynolds
+// Color: Black
+// Price: 15
+// -----
+// Brand: Flair
+// Color: Blue
+// Price: 5
