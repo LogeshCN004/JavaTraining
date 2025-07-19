@@ -1,3 +1,4 @@
+// Java Program to show Emoployee details
 import java.util.Scanner;
 public class Employee {
     String name;
@@ -16,3 +17,6 @@ public class Employee {
       e1.displayInfo();  
     }
 }
+// Output:
+// Name: Mohan
+// Salary: 25000.50
