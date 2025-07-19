@@ -1,3 +1,4 @@
+// Java Program to show specs of a mobile
 public class Mobile {
     String brand;
     int price;
@@ -15,3 +16,7 @@ public class Mobile {
         m1.display();
     }
 }
+// Output:
+// Brand: Redmi Note 5 
+// Price: 18000
+// Specs: 6GB RAM, 128GB Storage, 8MP front camera, 12MP rear camera
