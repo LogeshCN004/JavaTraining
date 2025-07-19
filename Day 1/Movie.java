@@ -1,3 +1,4 @@
+// Java Program to show details of a movie
 import java.util.Scanner;
 public class Movie {
     String title;
@@ -17,3 +18,6 @@ public class Movie {
         sc.close();
     }
 }
+// Output:
+// Title: Avengers Endgame
+// Ratings : 4.5
