@@ -1,3 +1,4 @@
+// Java Program to check balance of bank account holder
 import java.util.Scanner;
 public class Bank {
     String accountHolder;
@@ -16,3 +17,6 @@ public class Bank {
         b1.checkBalance();
     }
 }
+// Output:
+// Account Holder: Rajaram
+// Balance: 30500.25
